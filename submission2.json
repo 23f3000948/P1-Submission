@@ -1,0 +1,6 @@
+{
+  "prompt": "A long ancient stone corridor stretching deep into the frame, lit brightly at the far end and descending into near-darkness at the foreground. A line of people stands in sequence along the corridor, each whispering into the ear of the next. The figure at the bright far end whispers with urgency and expression. Each successive figure toward the dark foreground looks progressively less certain, more shadowed, leaning in with diminishing intensity. The final figure at the very front stands completely still, expression blank and empty, hearing nothing. The light source is entirely at the far end — no artificial lighting near the camera. Stone walls, medieval or monastic architecture. Hyperrealistic photography, 35mm cinematic, shallow depth of field. The atmosphere is hushed and melancholy. Negative: no text, no labels, no diagrams, no equations, no floating elements, no glowing data, no neurons, no wires, no technology, no screens",
+  "model": "Google Imagen 3 via AI Studio",
+  "concept": "vanishing gradients",
+  "metaphor": "A whisper passed along a corridor fades to silence at the far end — each person receives less signal than the last, mirroring how gradient magnitude shrinks through deep network layers."
+}
