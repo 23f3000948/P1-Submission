@@ -1,0 +1,7 @@
+{
+  "prompt": "Aerial top-down photograph of a very long wooden banquet table, dramatically lit with warm golden light. At one end of the table, a single ornate place setting overflows with abundant food — stacked dishes, overflowing bowls, fruit spilling onto the tablecloth. At the opposite end, fifty simple place settings are crowded tightly together with nearly empty plates, sparse crumbs, a few breadcrumbs visible. The table stretches the full length of the frame. No people. No text. No labels. The same white tablecloth runs the entire length. Shot from directly above, hyperrealistic, large format photography aesthetic, shallow depth of field at the edges, warm interior lighting. The composition should feel documentary and melancholy, not illustrative. Negative: no charts, no graphs, no infographics, no text, no numbers, no people, no cartoon style, no split-screen, no icons",
+  "model": "Google Imagen 3 via AI Studio",
+  "dataset_name": "World Inequality Database — US Pre-tax Income Shares 1980–2022",
+  "dataset_url": "https://wid.world/country/US/",
+  "insight": "The top 1% of Americans now capture a larger share of national income than the entire bottom 50% combined, a disparity that has roughly doubled since 1980."
+}
